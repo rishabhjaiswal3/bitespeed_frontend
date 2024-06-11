@@ -1,0 +1,25 @@
+.container {
+  margin-top: 5rem;
+}
+
+.heading{
+  margin-bottom:4rem;
+  font-weight: 900;
+}
+
+.label {
+  width: 12rem;
+}
+
+.sub-container {
+
+
+}
+
+input {
+  width:100%;
+  padding:0.6rem;
+  margin-bottom: 2rem;
+  margin-top: 0.2rem;
+  border-radius: 8px;
+}
